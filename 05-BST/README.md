@@ -9,10 +9,11 @@ Reading material:
 - [Visualgo's Binary Search Tree explanation](https://visualgo.net/en/bst), although understanding of AVL tree is not necessary.
 
 Whiteboard sessions:
-- [4C](http://codeforces.com/problemset/problem/4/C)
-- ? To be revealed ?
+- [580 C](http://codeforces.com/problemset/problem/580/C)
 
 Weekly submissions:
-- ? To be revealed ?
+- [115 A](http://codeforces.com/problemset/problem/115/A)
+- [4C](http://codeforces.com/problemset/problem/4/C)
+- [913 B](http://codeforces.com/problemset/problem/913/B)
 
 GLHF!
