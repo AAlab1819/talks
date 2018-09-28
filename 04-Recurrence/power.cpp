@@ -1,13 +1,16 @@
 #include <stdio.h>
+#include <omp.h>
 
 typedef long long ll;
 
+// Complexity O(n) --> n = exp
 ll naive_power(ll base, ll exp, ll &naive_power_call) {
 	naive_power_call++;
 	if(exp == 1) return base;
 	return base * naive_power(base, exp - 1, naive_power_call);
 }
 
+// Complexity O(log n) --> n = exp
 ll power(ll base, ll exp, ll &power_call) {
 	power_call++;
 	if(exp == 1) return base;
