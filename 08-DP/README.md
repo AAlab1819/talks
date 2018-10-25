@@ -1,11 +1,11 @@
 # Week 08 - Dynamic Programming
 
-Thank you for coming to this class! The title for your weekly submission is `Week07-DP`. Hopefully you've read the reading materials before coming into this class.
+Thank you for coming to this class! The title for your weekly submission is `Week08-DP`. Hopefully you've read the reading materials before coming into this class.
 
 ## Important Links of the Week
 
 Reading material:
-- [FreeCodeCamp's explanation on Dynamic Programming](https://medium.freecodecamp.org/useful-tips-to-help-you-create-good-habits-as-a-web-developer-7c1b7b5c0bcb) - the Fibonacci part has been explained in Week 04 - Recurrence.
+- [FreeCodeCamp's explanation on Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) - the Fibonacci part has been explained in Week 04 - Recurrence.
 
 Whiteboard sessions:
 - [HackerRank - The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)
