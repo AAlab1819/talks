@@ -6,6 +6,7 @@ Thank you for coming to this class! The title for your weekly submission is `Wee
 
 Reading material:
 - [FreeCodeCamp's explanation on Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296) - the Fibonacci part has been explained in Week 04 - Recurrence.
+- [Greedy vs. DP solution for Knapsack problem](https://vickylai.com/verbose/knapsack-problem-algorithms-for-my-real-life-carry-on-knapsack/)
 
 Whiteboard sessions:
 - [HackerRank - The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)
