@@ -3,12 +3,9 @@ This week, we will cover some classic dynamic programming problems in this class
 
 ## Intro
 Some classic dynamic programming problem that will be cover are:
-- Longest Increasing Subsequence
-This problem is finding maximum length k of subsequence which its elements are increasing in order <img src="http://latex.codecogs.com/svg.latex?a_1%3Ca_2%3C...%3Ca_k">.
-- Coin Change
-This problem is finding how many ways to give changes with some particular coins.
-- Knapsack
-Knapsack problem is finding the best value we can get in a condition where each item has weight and worth. Knapsack problems divided into two types, Knapsack with repetitive and Knapsack without repetitive (0-1 Knapsack). Knapsack with repetitive is knapsack where there is infinite number of specific items. 0-1 Knapsack is knapsack where there is only one number of specific items / finite.
+- Longest Increasing Subsequence - <i>This problem is finding maximum length k of subsequence which its elements are increasing in order <img src="http://latex.codecogs.com/svg.latex?a_1%3Ca_2%3C...%3Ca_k">.</i>
+- Coin Change - <i>This problem is finding how many ways to give changes with some particular coins.</i>
+- Knapsack - <i>Knapsack problem is finding the best value we can get in a condition where each item has weight and worth. Knapsack problems divided into two types, Knapsack with repetitive and Knapsack without repetitive (0-1 Knapsack). Knapsack with repetitive is knapsack where there is infinite number of specific items. 0-1 Knapsack is knapsack where there is only one number of specific items / finite.</i>
 
 ## Activity
 ### Whiteboard session and weekly submissions
