@@ -8,6 +8,7 @@ Reading material:
 - [BaseCS' explanation on Djikstra](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
 - [Hackerearth's explanation on shortest path algorithms](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/)
 - [Visualgo's visualization for shortest path algorithms](https://visualgo.net/en/sssp)
+- [Computerphile's video explanation on Djikstra using priority queue](https://www.youtube.com/watch?v=GazC3A4OQTE)
 
 Whiteboard sessions & weekly submissions (doing the whiteboard session grants you 100 points for this week's submission):
 - [20 C](http://codeforces.com/problemset/problem/20/C)
